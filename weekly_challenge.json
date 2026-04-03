@@ -1,6 +1,6 @@
 {
-  "shiftDuration": 420,
-  "maxQueue": 10,
-  "forcedMode": 3
- 
+    "shiftDuration": 10,
+    "maxQueue": 20,
+    "forcedMode": 3
+    
 }

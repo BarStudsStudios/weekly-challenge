@@ -1,6 +1,6 @@
 {
   "challengeID": "firestorm",
-  "forcedMode": "Rest",
+  "forcedMode": 3,
 
   "eventMinTime": 10,
   "eventMaxTime": 20,

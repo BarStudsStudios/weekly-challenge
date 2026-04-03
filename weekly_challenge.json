@@ -1,16 +1,14 @@
 {
   "challengeID": "firestorm",
   "forcedMode": 3,
-
+  "shiftDuration = 300,
   "eventMinTime": 10,
   "eventMaxTime": 20,
-
+  "patienceMultiplier = 1;
   "fireWeight": 5,
   "toiletWeight": 0,
   "sickWeight": 0,
-
   "allowEventStacking": true,
-
   "maxQueue": 4,
   "maxServingCustomers": 2
 }

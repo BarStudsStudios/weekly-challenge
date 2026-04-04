@@ -5,7 +5,7 @@
   "forcedMode": 3,
   "shiftDuration": 10,
 
-  "goalType": "ServeCustomers",
+  "goalType": "NoMistakes",
   "goalValue": 40,
 
   "eventMinTime": 10,

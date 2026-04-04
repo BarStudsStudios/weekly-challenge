@@ -5,8 +5,8 @@
   "forcedMode": 3,
   "shiftDuration": 10,
 
-  "goalType": "NoMistakes",
-  "goalType": 3,
+"goalType": 3, 
+  "goalValue": 40,
 
   "eventMinTime": 10,
   "eventMaxTime": 20,

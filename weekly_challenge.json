@@ -6,7 +6,7 @@
   "shiftDuration": 10,
 
   "goalType": "NoMistakes",
-  "goalValue": 40,
+  "goalType": 3,
 
   "eventMinTime": 10,
   "eventMaxTime": 20,

@@ -3,7 +3,7 @@
   "title": "🔥 Firestorm",
   "description": "The kitchen is constantly catching fire. Keep control and serve customers.",
   "forcedMode": 3,
-  "shiftDuration": 300,
+  "shiftDuration": 10,
 
   "goalType": "ServeCustomers",
   "goalValue": 40,

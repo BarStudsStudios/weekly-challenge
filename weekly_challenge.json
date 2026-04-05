@@ -10,8 +10,8 @@
 
   "eventMinTime": 10,
   "eventMaxTime": 20,
-  "fireWeight": 5,
-  "toiletWeight": 5,
+  "fireWeight": 0,
+  "toiletWeight": 0,
   "sickWeight": 5,
   "allowEventStacking": true,
 

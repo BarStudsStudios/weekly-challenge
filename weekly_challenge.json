@@ -9,10 +9,10 @@
   "goalValue": 40,
 
   "eventMinTime": 1,
-  "eventMaxTime": 5,
-  "fireWeight": 0,
+  "eventMaxTime": 10,
+  "fireWeight": 5,
   "toiletWeight": 0,
-  "sickWeight": 5,
+  "sickWeight": 0,
   "allowEventStacking": true,
 
   "maxQueue": 4

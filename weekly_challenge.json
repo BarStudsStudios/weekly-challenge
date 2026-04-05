@@ -8,8 +8,8 @@
 "goalType": 3, 
   "goalValue": 40,
 
-  "eventMinTime": 10,
-  "eventMaxTime": 20,
+  "eventMinTime": 1,
+  "eventMaxTime": 5,
   "fireWeight": 0,
   "toiletWeight": 0,
   "sickWeight": 5,

@@ -2,7 +2,7 @@
   "challengeID": "firestorm",
   "title": "🔥 Firestorm",
   "description": "The kitchen is constantly catching fire. Keep control and serve customers.",
-  "forcedMode": 2,
+  "forcedSetup": 2,
   "shiftDuration": 200,
 
 "goalType": 3, 

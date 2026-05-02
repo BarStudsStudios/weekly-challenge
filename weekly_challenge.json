@@ -4,16 +4,14 @@
   "description": "The kitchen is constantly catching fire. Keep control and serve customers.",
   "forcedSetup": 2,
   "shiftDuration": 200,
-
-"goalType": 3, 
+  "goalType": 3, 
   "goalValue": 40,
-
   "eventMinTime": 50,
   "eventMaxTime": 60,
   "fireWeight": 5,
   "toiletWeight": 0,
   "sickWeight": 0,
   "allowEventStacking": true,
-"customerType": "Zombie",
-  "maxQueue": 4
+  "maxQueue": 4,
+  "customerType": "Zombie"
 }

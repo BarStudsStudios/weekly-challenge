@@ -14,6 +14,6 @@
   "toiletWeight": 0,
   "sickWeight": 0,
   "allowEventStacking": true,
-"customerType": "Zombie"
+"customerType": "Zombie",
   "maxQueue": 4
 }

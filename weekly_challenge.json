@@ -13,5 +13,5 @@
   "sickWeight": 0,
   "allowEventStacking": true,
   "maxQueue": 4,
-  "customerType": "Zombie"
+  "customerType": "Normal"
 }
